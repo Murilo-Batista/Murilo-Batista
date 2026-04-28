@@ -4,7 +4,7 @@
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas no Instituto Federal em Bragança Paulista
 - 🔭 Estudando sempre
 - 💬 Atualidades
-- ⚡  Gestão de pessoass. Atendimento ao público
+- ⚡  Gestão de pessoas. Atendimento ao público
 - 📍 Resido em Socorro-SP
 
 ##
